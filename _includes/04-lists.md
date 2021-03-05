@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Programming :computer:
+* Reading :book:
+* Listening to music :musical_note:
+    * Hip-hop 
+    * Pop
